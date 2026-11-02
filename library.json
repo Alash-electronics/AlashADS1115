@@ -1,6 +1,6 @@
 {
   "name": "AlashADS1115",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Easy ADS1115/ADS1015 ADC library: volts, differential, auto range, dividers, clear tips (ru/kk/en), no dependencies",
   "keywords": "ADS1115, ADS1015, ADC, analog, voltage, differential, I2C, 16 bit",
   "repository": {
